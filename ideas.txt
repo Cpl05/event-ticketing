@@ -1,0 +1,8 @@
+Project scope:
+Organisers create events (name, venue, date, time, capacity, ticket types and prices).
+Attendees browse upcoming events and reserve tickets; sales stop when capacity is reached.
+Each ticket gets a unique QR code, shown on screen and downloadable.
+A check-in page (usable on a phone) scans or enters the code and marks the ticket as used.
+A ticket cannot be checked in twice; invalid or cancelled tickets are rejected with a clear message.
+Attendees can cancel a ticket up to 48 hours before the event.
+Organiser dashboard: tickets sold, checked in and remaining per event.
